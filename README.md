@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Thomas 
+- Vivo en Moreno
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Este no es mi primer contacto con github, ya lo utilice antes de forma autodidacta para cursos y proyectos.
+- Perdón me olvide de subir la asignatura a tiempo
